@@ -1,5 +1,5 @@
-# C-7.0_New_Features
-Features of C# 7.0 Newly added
+# C#_New_Features
+Features of C# 7.0 Onwards
 
 1) Clone the repository <br>
 2) And run the programs <br>
